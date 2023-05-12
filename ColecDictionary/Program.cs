@@ -8,8 +8,8 @@ Dictionary<string, int> diccionario = Departamento
 //Ordenando el diccionario de mayor a menor
 var ordenado = diccionario.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
 //fijando los nombres de los departamentos con menor y mayor poblacion
-string maxDepkey =ordenado.First().Key;
 string minDepkey =ordenado.First().Key;
+string maxDepkey =ordenado.Last().Key;
 //reasignacion de los arreglos en paralelo
 Departamento = ordenado.Keys.ToArray();
 Poblacion = ordenado.Values.ToArray();
