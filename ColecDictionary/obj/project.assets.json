@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\ColecDictionary.csproj",
       "projectName": "ColecDictionary",
       "projectPath": "C:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\ColecDictionary.csproj",
       "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\ColecDictionary.csproj",
+      "projectName": "ColecDictionary",
+      "projectPath": "c:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\ColecDictionary.csproj",
+      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Public\\Repositorio Estefani 2023\\ColecDictionary\\obj\\",
+>>>>>>> versionsimple
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config"

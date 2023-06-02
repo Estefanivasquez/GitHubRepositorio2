@@ -58,6 +58,14 @@ C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDi
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.exe
+C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.deps.json
+C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.runtimeconfig.json
+C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.dll
+C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.pdb
+>>>>>>> versionsimple
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.AssemblyReference.cache
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfoInputs.cache
@@ -66,10 +74,13 @@ C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\Colec
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.dll
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\refint\ColecDictionary.dll
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
+<<<<<<< HEAD
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.exe
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.deps.json
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.runtimeconfig.json
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.dll
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.pdb
+=======
+>>>>>>> versionsimple
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
 C:\Users\Public\Repositorio Estefani 2023\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
