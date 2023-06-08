@@ -19,6 +19,12 @@ string minDepkey =ordenado.First().Key;
 string maxDepkey =ordenado.Last().Key;
 >>>>>>> versionsimple
 //reasignacion de los arreglos en paralelo
+//mostrar el diccionario sin ordenar
+Console.WriteLine($"datos Desordenados");
+foreach (var item in diccionario)
+Console.WriteLine($"{item.Key,-20}==>{item.value,10:NO}");
+Console.WriteLine();
+//Ordenando con LINQ OrdeBy el diccionari
 Departamento = ordenado.Keys.ToArray();
 Poblacion = ordenado.Values.ToArray();
 //mostrar los arreglos ordenados de menor a mayor
